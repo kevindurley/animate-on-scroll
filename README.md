@@ -47,7 +47,7 @@ $(document).ready(function () {
 });
 ```
 
-6) Override the height of the image in your css - default 50px. Images within the container will be sized at 100% i.e. equal to teh height of the container.
+6) Override the height of the image in your css - default 100px. Images within the container will be sized at 100% i.e. equal to teh height of the container.
 
 ```css
 .myAniScrollContainer {

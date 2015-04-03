@@ -1,6 +1,6 @@
 .aniScrollContainer {
     position: relative;
-    height: 50px;
+    height: 100px;
 }
 
 .aniScrollContainer img.animated {
