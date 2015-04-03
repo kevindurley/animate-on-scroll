@@ -1,6 +1,11 @@
 # animate-on-scroll
 Animate through an image sequence as you scroll a web page.
 
+## example
+
+http://www.durley.net/animate-on-scroll/
+
+## usage
 
 1) Copy repository
 
