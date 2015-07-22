@@ -1,16 +1,21 @@
 # animate-on-scroll
 Animate through an image sequence as you scroll a web page.
 
+## example
+
+http://www.durley.net/animate-on-scroll/
+
+## usage
 
 1) Copy repository
 
-	git clone https://github.com/kevindurley/animate-on-scroll.git
+  git clone https://github.com/kevindurley/animate-on-scroll.git
 
 2) Copy the js and css files into your project
 
-	js/aniscroll.js
-	css/aniscroll.css
-	
+  js/aniscroll.js
+  css/aniscroll.css
+  
 3) Add references to the js and css files to your project
 
 ```html
@@ -62,7 +67,7 @@ $(document).ready(function () {
   .
 </div>
 ```
-	
+  
 7) An option that can be passed to aniScroll during initialisation - 'percentageToBeVisible'. This option determines when the animation of the image sequence starts and stops. Default - 25. This means the sequence will start and stop animating when the specified percentage of the image is visible i.e. if set to 100, the image must be fully visible, if set to 50, the animation will start when the image is half showing.
 
 ```javascript
@@ -74,6 +79,3 @@ $(document).ready(function () {
 
 });
 ```
-
-
-
